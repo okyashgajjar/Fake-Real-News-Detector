@@ -4,4 +4,4 @@ pandas
 numpy
 python-docx
 python-pptx
-PyMuPDF (fitz)
+PyMuPDF
